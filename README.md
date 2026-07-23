@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/himeshrathee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
