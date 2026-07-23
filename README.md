@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
