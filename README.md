@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/himeshrathee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himeshrathee/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/himeshrathee/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/himeshrathee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himeshrathee/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/himeshrathee/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -77,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
