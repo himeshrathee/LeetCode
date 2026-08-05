@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/himeshrathee/LeetCode/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/himeshrathee/LeetCode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/himeshrathee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/himeshrathee/LeetCode/tree/master/0001-two-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
