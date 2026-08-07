@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/himeshrathee/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/himeshrathee/LeetCode/tree/master/0001-two-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himeshrathee/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/himeshrathee/LeetCode/tree/master/3731-find-missing-elements) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himeshrathee/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Prefix Sum
 |  |
