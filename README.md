@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1552-magnetic-force-between-two-balls](https://github.com/himeshrathee/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himeshrathee/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/himeshrathee/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/himeshrathee/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1552-magnetic-force-between-two-balls](https://github.com/himeshrathee/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1552-magnetic-force-between-two-balls](https://github.com/himeshrathee/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himeshrathee/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himeshrathee/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/himeshrathee/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
