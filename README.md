@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/himeshrathee/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/himeshrathee/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/himeshrathee/LeetCode/tree/master/1140-stone-game-ii) |
 ## Greedy
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/himeshrathee/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/himeshrathee/LeetCode/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/himeshrathee/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himeshrathee/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himeshrathee/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/himeshrathee/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
