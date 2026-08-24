@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/himeshrathee/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/himeshrathee/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/himeshrathee/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/himeshrathee/LeetCode/tree/master/1140-stone-game-ii) |
 ## Greedy
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/himeshrathee/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/himeshrathee/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/himeshrathee/LeetCode/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/himeshrathee/LeetCode/tree/master/2029-stone-game-ix) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/himeshrathee/LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/himeshrathee/LeetCode/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/himeshrathee/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/himeshrathee/LeetCode/tree/master/2029-stone-game-ix) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/himeshrathee/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/himeshrathee/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
