@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/himeshrathee/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/himeshrathee/LeetCode/tree/master/0605-can-place-flowers) |
+| [0697-degree-of-an-array](https://github.com/himeshrathee/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/himeshrathee/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himeshrathee/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/himeshrathee/LeetCode/tree/master/0001-two-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0697-degree-of-an-array](https://github.com/himeshrathee/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
