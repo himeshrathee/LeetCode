@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himeshrathee/LeetCode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/himeshrathee/LeetCode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himeshrathee/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/himeshrathee/LeetCode/tree/master/1025-divisor-game) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himeshrathee/LeetCode/tree/master/0002-add-two-numbers) |
 | [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
 ## Design
 |  |
