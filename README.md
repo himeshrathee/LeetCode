@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/himeshrathee/LeetCode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/himeshrathee/LeetCode/tree/master/1140-stone-game-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0697-degree-of-an-array](https://github.com/himeshrathee/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himeshrathee/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -237,8 +240,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
