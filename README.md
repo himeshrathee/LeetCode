@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/himeshrathee/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himeshrathee/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/himeshrathee/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1797-design-authentication-manager](https://github.com/himeshrathee/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himeshrathee/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himeshrathee/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/himeshrathee/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/himeshrathee/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/himeshrathee/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himeshrathee/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/himeshrathee/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
