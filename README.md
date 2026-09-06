@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/himeshrathee/LeetCode/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himeshrathee/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/himeshrathee/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
 | [0463-island-perimeter](https://github.com/himeshrathee/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/himeshrathee/LeetCode/tree/master/0605-can-place-flowers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
@@ -258,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
