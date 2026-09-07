@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himeshrathee/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/himeshrathee/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/himeshrathee/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/himeshrathee/LeetCode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/himeshrathee/LeetCode/tree/master/0605-can-place-flowers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himeshrathee/LeetCode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0697-degree-of-an-array](https://github.com/himeshrathee/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0888-fair-candy-swap](https://github.com/himeshrathee/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/himeshrathee/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/himeshrathee/LeetCode/tree/master/1122-relative-sort-array) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/himeshrathee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himeshrathee/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/himeshrathee/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himeshrathee/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -272,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/himeshrathee/LeetCode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himeshrathee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
