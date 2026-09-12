@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himeshrathee/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himeshrathee/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/himeshrathee/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 ## Game Theory
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himeshrathee/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/himeshrathee/LeetCode/tree/master/0463-island-perimeter) |
 ## Counting Sort
 |  |
